@@ -160,16 +160,16 @@
 	};
 	4E5A62C41118FA5E000A4BD6 /* WebViewControllerDemo.h */ = {
 		uiCtxt = {
-			sepNavIntBoundsRect = "{{0, 0}, {644, 413}}";
+			sepNavIntBoundsRect = "{{0, 0}, {683, 322}}";
 			sepNavSelRange = "{440, 0}";
-			sepNavVisRange = "{0, 464}";
+			sepNavVisRange = "{149, 315}";
 		};
 	};
 	4E5A62C51118FA5E000A4BD6 /* WebViewControllerDemo.m */ = {
 		uiCtxt = {
 			sepNavIntBoundsRect = "{{0, 0}, {984, 1050}}";
 			sepNavSelRange = "{1431, 0}";
-			sepNavVisRange = "{1058, 785}";
+			sepNavVisRange = "{875, 958}";
 		};
 	};
 	4E5A62D51118FE3C000A4BD6 /* PBXTextBookmark */ = {
@@ -639,5 +639,19 @@
 		rType = 0;
 		vrLen = 785;
 		vrLoc = 1058;
+	};
+	4E5A637D11192461000A4BD6 /* MapViewController.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {644, 413}}";
+			sepNavSelRange = "{195, 0}";
+			sepNavVisRange = "{0, 345}";
+		};
+	};
+	4E5A637E11192461000A4BD6 /* MapViewController.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {984, 784}}";
+			sepNavSelRange = "{233, 0}";
+			sepNavVisRange = "{618, 751}";
+		};
 	};
 }
